@@ -1,3 +1,35 @@
+# Cryptocurrency Dashboard
+
+This project is develop with reactjs
+
+## Pages
+
+Cryptocurrency Dashboard Page
+
+## libraries
+
+ReactJS
+
+React-redux
+
+Redux-thunk
+
+Tailwind-CSS
+
+Chart.js
+
+React-chartjs-3
+
+## API
+
+Coingecko API
+
+https://www.coingecko.com/en/api/documentation
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
